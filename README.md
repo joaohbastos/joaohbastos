@@ -17,8 +17,8 @@
 
 # Backend
 <div style="display: flex;">     
- <img height="48px" width="48px" alt="Icone py" src="https://skillicons.dev/icons?i=py"/>
- <img width="48px" height="48px" alt="Icone c" src="http://www.w3.org/2000/svg">
+ <img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=py"/>
+ <img height="48px" width="48px" alt="Icone C" src="https://skillicons.dev/icons?i=c"/>
 </div>
 
 # Ferramentas que utilizo

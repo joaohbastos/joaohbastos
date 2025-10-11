@@ -1,7 +1,7 @@
 # Sobre mim
 <p>🌎 Desenvolvedor aprendendo o mundo do Full-Stack</p>
-<p>🖥️ Atualmente estudando Phyton </p>
-<p>🎓 Cursando Ciência da Computação na CESAR School 1/8<p/>
+<p>🖥️ Atualmente estudando C e Django </p>
+<p>🎓 Cursando Ciência da Computação na CESAR School 2/8<p/>
 <p>🌱 Aprendendo e evoluindo, buscando experiencia no mercado de trabalho<p/>
  
 
@@ -18,6 +18,7 @@
 # Backend
 <div style="display: flex;">     
  <img height="48px" width="48px" alt="Icone py" src="https://skillicons.dev/icons?i=py"/>
+ <img width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
 </div>
 
 # Ferramentas que utilizo
